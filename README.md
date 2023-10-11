@@ -23,3 +23,5 @@ Follow this tutorial to gain access to https://collegefootballdata.com/, which w
 <img width="1263" alt="Screen Shot 2023-02-20 at 7 55 15 PM" src="https://github.com/Tawfiq-MoonHacker/football/assets/54370347/a93aa63d-30c6-4ad9-94f2-628f2c5adec9">
 
 
+<img width="1407" alt="Screen Shot 2023-02-20 at 7 55 07 PM" src="https://github.com/Tawfiq-MoonHacker/football/assets/54370347/90801755-78e5-4927-9c19-769c7846f9d6">
+
