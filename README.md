@@ -20,5 +20,6 @@ Follow this tutorial to gain access to https://collegefootballdata.com/, which w
 #### 7. Where you insert the key, be sure to follow the format: "Bearer " + " " + key 
 
 
-![Alt text]([image link](https://github.com/Tawfiq-MoonHacker/football/blob/main/data/Screen%20Shot%202023-02-20%20at%207.55.07%20PM.png)https://github.com/Tawfiq-MoonHacker/football/blob/main/data/Screen%20Shot%202023-02-20%20at%207.55.07%20PM.png)
+<img width="1263" alt="Screen Shot 2023-02-20 at 7 55 15 PM" src="https://github.com/Tawfiq-MoonHacker/football/assets/54370347/a93aa63d-30c6-4ad9-94f2-628f2c5adec9">
+
 
