@@ -18,3 +18,7 @@ Follow this tutorial to gain access to https://collegefootballdata.com/, which w
 #### 6. With this key, replace the key in the supplied notebooks where we call the API, setting the variable "api" equal to the key
 
 #### 7. Where you insert the key, be sure to follow the format: "Bearer " + " " + key 
+
+
+![Alt text]([image link](https://github.com/Tawfiq-MoonHacker/football/blob/main/data/Screen%20Shot%202023-02-20%20at%207.55.07%20PM.png)https://github.com/Tawfiq-MoonHacker/football/blob/main/data/Screen%20Shot%202023-02-20%20at%207.55.07%20PM.png)
+
